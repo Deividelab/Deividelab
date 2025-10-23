@@ -1,3 +1,5 @@
+def generate_readme(username):
+    readme_content = f"""\
 # 👋 Olá, eu sou {Davi}!
 
 Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.  
