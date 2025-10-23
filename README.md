@@ -1,9 +1,4 @@
-# generate_mytechstack.py
-# Gera automaticamente um README.md com o MyTechStack para seu perfil do GitHub
-
-def generate_readme(username):
-    readme_content = f"""\
-# 👋 Olá, eu sou {username}!
+# 👋 Olá, eu sou Davi!
 
 Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀  
 
@@ -27,15 +22,3 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
-✨ _Gerado automaticamente com Python_
-"""
-
-    with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
-    print("✅ README.md gerado com sucesso!")
-
-
-if __name__ == "__main__":
-    user = input("Digite seu nome de usuário do GitHub: ").strip()
-    generate_readme(user)
