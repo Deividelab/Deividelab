@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou {username}!
+# 👋 Olá, eu sou Davi!
 
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante. 🚀  
+Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.  
 
 ## 🧠 My Tech Stack
 
