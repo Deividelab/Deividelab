@@ -1,1 +1,1 @@
-
+python generate_mytechstack.py
