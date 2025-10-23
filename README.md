@@ -17,7 +17,3 @@ Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.
 
 ### ☁️ Cloud e Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-git add README.md
-git commit -m "Adiciona MyTechStack ao perfil"
-git push origin main
