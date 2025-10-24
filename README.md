@@ -23,6 +23,6 @@ Sou um desenvolvedor apaixonado por tecnologia, código limpo e aprendizado cons
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🌍 **Onde me encontrar**
-[![GitHub](https://img.shields.io/badge/GitHub-{Deivide}-181717?style=for-the-badge&logo=github)](https://github.com/Deividelab))
+[![GitHub](https://img.shields.io/badge/GitHub-{Deivide}-181717?style=for-the-badge&logo=github)](https://github.com/Deividelab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/{username})
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://{username}.github.io)
