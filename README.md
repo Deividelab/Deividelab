@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **Davi!**
+# 👋 Hello World, eu sou **Davi!**
 
 ## 🧠 **MINHA TECH STACK**
 ### 💻 **Linguagens:**
