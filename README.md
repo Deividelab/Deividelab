@@ -3,8 +3,9 @@
 Sou um desenvolvedor apaixonado por tecnologia, código limpo e aprendizado constante!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding animation">
+  <img src="https://i.imgur.com/q1bV3yC.gif" width="500" alt="Coding GIF">
 </p>
+
 
 ---
 
