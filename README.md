@@ -2,12 +2,12 @@
 ## Me chamo **Davi de Santana Martins**
 
 ## 🧠 **MINHA TECH STACK**
+
+<img align="right" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="600" alt="Coding gif" style="margin-left: 25px;">
+
 ### 💻 **LINGUAGENS:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-<img align="right" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="500" alt="Coding gif" style="margin-left: 25px;">
-
 
 ### ⚙️ **FRAMEWORKS & LIBRARIES:**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
