@@ -1,5 +1,7 @@
-# 👋 Hello World
-## Me chamo **Davi!**
+<img align="right" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="350" alt="Coding gif" style="margin-left: 25px;">
+
+# 👋 Hello, World!  
+## Me chamo **Davi de Santana Martins**
 
 ## 🧠 **MINHA TECH STACK**
 ### 💻 **LINGUAGENS:**
