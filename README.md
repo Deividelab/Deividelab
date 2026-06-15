@@ -1,7 +1,7 @@
 <!-- ====== BANNER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:3776AB&height=220&section=header&text=Davi%20de%20Santana%20Martins&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%26%20Estudante%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20Flask&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
+<img src="banner.gif" alt="Davi de Santana Martins — Desenvolvedor" width="100%" />
 
 <!-- ====== HEADER ANIMADO ====== -->
 <a href="https://github.com/Deividelab">
