@@ -10,18 +10,6 @@
 
 </div>
 
-<!-- ====== SOBRE MIM ====== -->
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de tecnologia de **Valença, Bahia**, com foco em **desenvolvimento back-end e web**. Gosto de aprender colocando a mão no código e estou em busca da minha primeira oportunidade na área.
-
-- 🌱 Aprofundando em **Python** e **desenvolvimento web**
-- 🎯 Em busca da primeira oportunidade profissional
-- 💬 Pergunte-me sobre **Python, Django ou Flask**
-
----
-
 ## 🧠 Minha Tech Stack
 
 <div align="center">
@@ -41,21 +29,6 @@ Sou estudante de tecnologia de **Valença, Bahia**, com foco em **desenvolviment
 
 ### 🗄️ Banco de Dados
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deividelab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deividelab&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Deividelab&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
 
