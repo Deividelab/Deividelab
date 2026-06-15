@@ -93,6 +93,3 @@
 <i>"Aprender hoje o que vai me levar mais longe amanhã."</i>
 
 </div>
-
-<!-- ====== BANNER DE RODAPÉ ====== -->
-<img src="footer.png" width="100%" />
