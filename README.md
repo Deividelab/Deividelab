@@ -1,37 +1,24 @@
-<!-- ====== HEADER ANIMADO ====== -->
+<!-- ====== BANNER ====== -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:3776AB&height=220&section=header&text=Davi%20de%20Santana%20Martins&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%26%20Estudante%20%7C%20Python%20%C2%B7%20Django%20%C2%B7%20Flask&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner" />
+
+<!-- ====== HEADER ANIMADO ====== -->
 <a href="https://github.com/Deividelab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi!+%F0%9F%91%8B;Desenvolvedor+%26+Estudante+%F0%9F%9A%80;Python+%7C+Django+%7C+Flask;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Davi!+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil+%F0%9F%9A%80;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </a>
 
 </div>
 
-<!-- ====== APRESENTAÇÃO ====== -->
+<!-- ====== SOBRE MIM ====== -->
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" alt="Coding gif" />
+## 👨‍💻 Sobre mim
 
-### 👨‍💻 Sobre mim
+Sou estudante de tecnologia de **Valença, Bahia**, com foco em **desenvolvimento back-end e web**. Gosto de aprender colocando a mão no código e estou em busca da minha primeira oportunidade na área.
 
-```python
-class Davi:
-    def __init__(self):
-        self.nome    = "Davi de Santana Martins"
-        self.pronome = "ele/dele"
-        self.local   = "Valença, BA — Brasil 🇧🇷"
-        self.status  = "Estudante 📚"
-        self.foco    = ["Back-end", "Web", "Sempre evoluindo"]
-
-    def diga_oi(self):
-        print("Vamos construir algo incrível juntos! 🚀")
-```
-
-- 🌱 Atualmente aprofundando em **Python** e **desenvolvimento web**
-- 🎯 Em busca da primeira oportunidade na área de tecnologia
+- 🌱 Aprofundando em **Python** e **desenvolvimento web**
+- 🎯 Em busca da primeira oportunidade profissional
 - 💬 Pergunte-me sobre **Python, Django ou Flask**
-- ⚡ Curiosidade: aprendo melhor colocando a mão no código
-
-<br clear="right"/>
 
 ---
 
