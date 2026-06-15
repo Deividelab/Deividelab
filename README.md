@@ -10,31 +10,31 @@
 
 </div>
 
-## 🧠 Minha Tech Stack
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=%2358A6FF&width=26" align="center" /> Minha Tech Stack
 
 <div align="center">
 
-### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://api.iconify.design/lucide/code.svg?color=%2358A6FF&width=20" align="center" /> **Linguagens**
 
-### ⚙️ Frameworks & Bibliotecas
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,html&theme=dark" alt="Linguagens" />
 
-### 🛠️ DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://api.iconify.design/lucide/layers.svg?color=%2358A6FF&width=20" align="center" /> **Frameworks & Bibliotecas**
 
-### 🗄️ Banco de Dados
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,flask&theme=dark" alt="Frameworks" />
+
+<img src="https://api.iconify.design/lucide/wrench.svg?color=%2358A6FF&width=20" align="center" /> **DevOps & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
+
+<img src="https://api.iconify.design/lucide/database.svg?color=%2358A6FF&width=20" align="center" /> **Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="Banco de Dados" />
 
 </div>
 
 ---
 
-## 🌍 Onde me encontrar
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%2358A6FF&width=26" align="center" /> Onde me encontrar
 
 <div align="center">
 
@@ -49,8 +49,8 @@
 
 <div align="center">
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=Deividelab&style=for-the-badge&color=3776AB&label=Visitas+no+perfil)
+![Visitas no perfil](https://visitor-badge.laobi.icu/badge?page_id=Deividelab.perfil.2026&left_color=gray&right_color=3776AB&left_text=Visitas%20no%20perfil)
 
-⭐ _"Aprender hoje o que vai me levar mais longe amanhã."_
+<img src="https://api.iconify.design/lucide/sparkles.svg?color=%2358A6FF&width=18" align="center" /> _"Aprender hoje o que vai me levar mais longe amanhã."_
 
 </div>
